@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">androidExam</string>
+    <string name="edit_name">Имя</string>
+    <string name="edit_number">Номер</string>
+    <string name="add_contact">+</string>
 </resources>
